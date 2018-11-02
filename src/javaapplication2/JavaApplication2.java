@@ -41,7 +41,7 @@ public class JavaApplication2 {
 /*
         System.out.println("Reading file");
         try {
-            BufferedReader br = new BufferedReader(new FileReader("/home/ed-dev/Documents/myJson.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("test.txt"));
             String thisLine;
             while ( (thisLine = br.readLine()) != null) {
                 System.out.println(thisLine);
