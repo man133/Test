@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/* new commit */
 public class JavaApplication2 {
 
     /**
@@ -41,7 +42,7 @@ public class JavaApplication2 {
 /*
         System.out.println("Reading file");
         try {
-            BufferedReader br = new BufferedReader(new FileReader("test.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("/home/ed-dev/Documents/myJson.txt"));
             String thisLine;
             while ( (thisLine = br.readLine()) != null) {
                 System.out.println(thisLine);
