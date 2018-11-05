@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/* this is new commit */
+/* this is monday commit */
 public class JavaApplication2 {
 
     /**
