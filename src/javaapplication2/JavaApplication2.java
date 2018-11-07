@@ -25,7 +25,7 @@ public class JavaApplication2 {
             // flush the stream
             System.out.println("Flushing Stream...");
             writer.flush();
-            System.out.println("Stream flushed.");
+            System.out.println("Stream flushed");
 
             // read what we write
             System.out.println("" + (char) in.read());
