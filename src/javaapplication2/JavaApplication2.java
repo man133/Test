@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/*  mit */
+/*  wendesday commit */
 public class JavaApplication2 {
 
     /**
